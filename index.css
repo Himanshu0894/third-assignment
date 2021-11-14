@@ -1,0 +1,58 @@
+*{
+   margin: 0px; 
+   padding: 0px;
+
+}
+#sec{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.menu{
+    display:inline-block;
+    margin-right: 30px;
+    margin-left: 20px;
+    text-decoration: none;
+
+}
+.wiki{
+    font-size: small;
+}
+.table1,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.table1{
+    width: 50px;
+    height: 100px;
+}
+.table2, tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.table2 {
+    width: 550px;
+    height: 220px;
+}
+.table3,tr,td{
+      border: 1px solid black;
+      border-collapse: collapse;
+}
+.table3{
+    width: 700px;
+    height: 200px;
+}
+
+.menu :hover{
+    text-decoration: underline;
+
+}
+a{
+    text-decoration: none;
+}
+.me{
+    background-color: rgb(30, 216, 223);
+}
+#sec{
+    background-color:whitesmoke;
+    
+}
